@@ -2,8 +2,8 @@
 This is a coursework project from Harvard University`s CS50G.
 
 # Implemented Features
-Level Up the Challenge: The pipe generation logic has been revamped, introducing more complex patterns and variations. This creates a more dynamic and challenging experience for players.
+Modified Pipe Generation: The logic responsible for generating pipe positions and configurations within the game has been altered. This modification aims to create a more challenging and dynamic gameplay experience.
 
-Medal Moments: A brand new medal system has been implemented! Outstanding player performance, measured by score, is now rewarded with shiny medals, adding a layer of achievement and motivation.
+Performance Medal System: A new system has been integrated into the game that awards medals based on the player's achieved score. This system serves as a form of recognition and motivation for high-performing players.
 
-Take a Break: Players can now take a breather and strategically pause the game at any time using a new pause functionality. This allows them to regroup and plan their next attempt at conquering the endless pipes.
+Pause Functionality Integration: The Flappy Bird game now includes a pause feature that players can activate at any point during gameplay. This allows them to take a break and strategize their next move before resuming the challenge.
